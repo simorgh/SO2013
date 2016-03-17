@@ -1,0 +1,667 @@
+init: comienza
+-> PROC 0: CREAR PROCESO
+-> PROC 0: CREAR PROCESO
+-> PROC 0: CREAR PROCESO
+-> PROC 0: CREAR PROCESO
+-> PROC 0: CREAR PROCESO
+Error creando noexiste
+init: termina
+-> FIN PROCESO 0
+-> C.CONTEXTO POR FIN: de 0 a 1
+simplon: i 0
+simplon: i 1
+simplon: i 2
+simplon: i 3
+simplon: i 4
+simplon: i 5
+simplon: i 6
+simplon: i 7
+simplon: i 8
+simplon: i 9
+simplon: i 10
+simplon: i 11
+simplon: i 12
+simplon: i 13
+simplon: i 14
+simplon: i 15
+simplon: i 16
+simplon: i 17
+simplon: i 18
+simplon: i 19
+simplon: i 20
+simplon: i 21
+simplon: i 22
+simplon: i 23
+simplon: i 24
+simplon: i 25
+simplon: i 26
+simplon: i 27
+simplon: i 28
+simplon: i 29
+simplon: i 30
+simplon: i 31
+simplon: i 32
+simplon: i 33
+simplon: i 34
+simplon: i 35
+simplon: i 36
+simplon: i 37
+simplon: i 38
+simplon: i 39
+simplon: i 40
+simplon: i 41
+simplon: i 42
+simplon: i 43
+simplon: i 44
+simplon: i 45
+simplon: i 46
+simplon: i 47
+simplon: i 48
+simplon: i 49
+simplon: i 50
+simplon: i 51
+simplon: i 52
+simplon: i 53
+simplon: i 54
+simplon: i 55
+simplon: i 56
+simplon: i 57
+simplon: i 58
+simplon: i 59
+simplon: i 60
+simplon: i 61
+simplon: i 62
+simplon: i 63
+simplon: i 64
+simplon: i 65
+simplon: i 66
+simplon: i 67
+simplon: i 68
+simplon: i 69
+simplon: i 70
+simplon: i 71
+simplon: i 72
+simplon: i 73
+simplon: i 74
+simplon: i 75
+simplon: i 76
+simplon: i 77
+simplon: i 78
+simplon: i 79
+simplon: i 80
+simplon: i 81
+simplon: i 82
+simplon: i 83
+simplon: i 84
+simplon: i 85
+simplon: i 86
+simplon: i 87
+simplon: i 88
+simplon: i 89
+simplon: i 90
+simplon: i 91
+simplon: i 92
+simplon: i 93
+simplon: i 94
+simplon: i 95
+simplon: i 96
+simplon: i 97
+simplon: i 98
+simplon: i 99
+simplon: i 100
+simplon: i 101
+simplon: i 102
+simplon: i 103
+simplon: i 104
+simplon: i 105
+simplon: i 106
+simplon: i 107
+simplon: i 108
+simplon: i 109
+simplon: i 110
+simplon: i 111
+simplon: i 112
+simplon: i 113
+simplon: i 114
+simplon: i 115
+simplon: i 116
+simplon: i 117
+simplon: i 118
+simplon: i 119
+simplon: i 120
+simplon: i 121
+simplon: i 122
+simplon: i 123
+simplon: i 124
+simplon: i 125
+simplon: i 126
+simplon: i 127
+simplon: i 128
+simplon: i 129
+simplon: i 130
+simplon: i 131
+simplon: i 132
+simplon: i 133
+simplon: i 134
+simplon: i 135
+simplon: i 136
+simplon: i 137
+simplon: i 138
+simplon: i 139
+simplon: i 140
+simplon: i 141
+simplon: i 142
+simplon: i 143
+simplon: i 144
+simplon: i 145
+simplon: i 146
+simplon: i 147
+simplon: i 148
+simplon: i 149
+simplon: i 150
+simplon: i 151
+simplon: i 152
+simplon: i 153
+simplon: i 154
+simplon: i 155
+simplon: i 156
+simplon: i 157
+simplon: i 158
+simplon: i 159
+simplon: i 160
+simplon: i 161
+simplon: i 162
+simplon: i 163
+simplon: i 164
+simplon: i 165
+simplon: i 166
+simplon: i 167
+simplon: i 168
+simplon: i 169
+simplon: i 170
+simplon: i 171
+simplon: i 172
+simplon: i 173
+simplon: i 174
+simplon: i 175
+simplon: i 176
+simplon: i 177
+simplon: i 178
+simplon: i 179
+simplon: i 180
+simplon: i 181
+simplon: i 182
+simplon: i 183
+simplon: i 184
+simplon: i 185
+simplon: i 186
+simplon: i 187
+simplon: i 188
+simplon: i 189
+simplon: i 190
+simplon: i 191
+simplon: i 192
+simplon: i 193
+simplon: i 194
+simplon: i 195
+simplon: i 196
+simplon: i 197
+simplon: i 198
+simplon: i 199
+simplon: termina
+-> FIN PROCESO 1
+-> C.CONTEXTO POR FIN: de 1 a 2
+Abans de dormir
+-> SIS_DORMIR
+excep_arit: i 0 
+excep_arit: i 1 
+excep_arit: i 2 
+excep_arit: i 3 
+excep_arit: i 4 
+excep_arit: i 5 
+excep_arit: i 6 
+excep_arit: i 7 
+excep_arit: i 8 
+excep_arit: i 9 
+excep_arit: i 10 
+excep_arit: i 11 
+excep_arit: i 12 
+excep_arit: i 13 
+excep_arit: i 14 
+excep_arit: i 15 
+excep_arit: i 16 
+excep_arit: i 17 
+excep_arit: i 18 
+excep_arit: i 19 
+excep_arit: i 20 
+excep_arit: i 21 
+-> EXCEPCION ARITMETICA EN PROC 3
+-> C.CONTEXTO POR FIN: de 3 a 4
+-> PROC 4: CREAR PROCESO
+excep_mem: i 0
+excep_mem: i 1
+excep_mem: i 2
+excep_mem: i 3
+excep_mem: i 4
+excep_mem: i 5
+excep_mem: i 6
+excep_mem: i 7
+excep_mem: i 8
+excep_mem: i 9
+excep_mem: i 10
+excep_mem: i 11
+excep_mem: i 12
+excep_mem: i 13
+excep_mem: i 14
+excep_mem: i 15
+excep_mem: i 16
+excep_mem: i 17
+excep_mem: i 18
+excep_mem: i 19
+-> EXCEPCION DE MEMORIA EN PROC 4
+-> C.CONTEXTO POR FIN: de 4 a 0
+simplon: i 0
+simplon: i 1
+simplon: i 2
+simplon: i 3
+simplon: i 4
+simplon: i 5
+simplon: i 6
+simplon: i 7
+simplon: i 8
+simplon: i 9
+simplon: i 10
+simplon: i 11
+simplon: i 12
+simplon: i 13
+simplon: i 14
+simplon: i 15
+simplon: i 16
+simplon: i 17
+simplon: i 18
+simplon: i 19
+simplon: i 20
+simplon: i 21
+simplon: i 22
+simplon: i 23
+simplon: i 24
+simplon: i 25
+simplon: i 26
+simplon: i 27
+simplon: i 28
+simplon: i 29
+simplon: i 30
+simplon: i 31
+simplon: i 32
+simplon: i 33
+simplon: i 34
+simplon: i 35
+simplon: i 36
+simplon: i 37
+simplon: i 38
+simplon: i 39
+simplon: i 40
+simplon: i 41
+simplon: i 42
+simplon: i 43
+simplon: i 44
+simplon: i 45
+simplon: i 46
+simplon: i 47
+simplon: i 48
+simplon: i 49
+simplon: i 50
+simplon: i 51
+simplon: i 52
+simplon: i 53
+simplon: i 54
+simplon: i 55
+simplon: i 56
+simplon: i 57
+simplon: i 58
+simplon: i 59
+simplon: i 60
+simplon: i 61
+simplon: i 62
+simplon: i 63
+simplon: i 64
+simplon: i 65
+simplon: i 66
+simplon: i 67
+simplon: i 68
+simplon: i 69
+simplon: i 70
+simplon: i 71
+simplon: i 72
+simplon: i 73
+simplon: i 74
+simplon: i 75
+simplon: i 76
+simplon: i 77
+simplon: i 78
+simplon: i 79
+simplon: i 80
+simplon: i 81
+simplon: i 82
+simplon: i 83
+simplon: i 84
+simplon: i 85
+simplon: i 86
+simplon: i 87
+simplon: i 88
+simplon: i 89
+simplon: i 90
+simplon: i 91
+simplon: i 92
+simplon: i 93
+simplon: i 94
+simplon: i 95
+simplon: i 96
+simplon: i 97
+simplon: i 98
+simplon: i 99
+simplon: i 100
+simplon: i 101
+simplon: i 102
+simplon: i 103
+simplon: i 104
+simplon: i 105
+simplon: i 106
+simplon: i 107
+simplon: i 108
+simplon: i 109
+simplon: i 110
+simplon: i 111
+simplon: i 112
+simplon: i 113
+simplon: i 114
+simplon: i 115
+simplon: i 116
+simplon: i 117
+simplon: i 118
+simplon: i 119
+simplon: i 120
+simplon: i 121
+simplon: i 122
+simplon: i 123
+simplon: i 124
+simplon: i 125
+simplon: i 126
+simplon: i 127
+simplon: i 128
+simplon: i 129
+simplon: i 130
+simplon: i 131
+simplon: i 132
+simplon: i 133
+simplon: i 134
+simplon: i 135
+simplon: i 136
+simplon: i 137
+simplon: i 138
+simplon: i 139
+simplon: i 140
+simplon: i 141
+simplon: i 142
+simplon: i 143
+simplon: i 144
+simplon: i 145
+simplon: i 146
+simplon: i 147
+simplon: i 148
+simplon: i 149
+simplon: i 150
+simplon: i 151
+simplon: i 152
+simplon: i 153
+simplon: i 154
+simplon: i 155
+simplon: i 156
+simplon: i 157
+simplon: i 158
+simplon: i 159
+simplon: i 160
+simplon: i 161
+simplon: i 162
+simplon: i 163
+simplon: i 164
+simplon: i 165
+simplon: i 166
+simplon: i 167
+simplon: i 168
+simplon: i 169
+simplon: i 170
+simplon: i 171
+simplon: i 172
+simplon: i 173
+simplon: i 174
+simplon: i 175
+simplon: i 176
+simplon: i 177
+simplon: i 178
+simplon: i 179
+simplon: i 180
+simplon: i 181
+simplon: i 182
+simplon: i 183
+simplon: i 184
+simplon: i 185
+simplon: i 186
+simplon: i 187
+simplon: i 188
+simplon: i 189
+simplon: i 190
+simplon: i 191
+simplon: i 192
+simplon: i 193
+simplon: i 194
+simplon: i 195
+simplon: i 196
+simplon: i 197
+simplon: i 198
+simplon: i 199
+simplon: termina
+-> FIN PROCESO 0
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> NO HAY LISTOS. ESPERA INT
+-> TRATANDO INT. DE RELOJ
+-> C.CONTEXTO POR FIN: de 0 a 2
+Despres de dormir
+-> FIN PROCESO 2
